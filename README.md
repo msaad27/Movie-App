@@ -21,4 +21,10 @@ This Flutter application enables users to search for movies utilizing the OMDb A
 - The home screen includes a search functionality instead of displaying trending movies, 
 as the OMDb API does not offer a trending movies endpoint.
 
+## 📦 Download APK
+
+https://github.com/msaad27/Movie-App/releases/tag/v0.1
+
+
+
 ---
